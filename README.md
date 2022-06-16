@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @koikegomez
 - 👀 I’m interested in Moblie Apps
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on x
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me ihexa@outlook.com
 
 <!---
